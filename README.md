@@ -1,4 +1,4 @@
-This README provides a detailed overview of the Contact Form application hosted here[https://contact-form-lovat-one.vercel.app/].
+This README provides a detailed overview of the Contact Form application hosted [`here`](https://contact-form-lovat-one.vercel.app/).
 
 The Contact Form application is a simple web-based interface designed for users to get in touch with an organization. It collects user details and submits the information for further processing.
 
