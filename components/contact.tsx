@@ -63,14 +63,14 @@ export default function Contact() {
   };
 
   return (
-    <div className="max-w-screen-lg mx-auto p-5">
-      <div className="absolute inset-0  bg-gray-300 ">
+    <div className=" flex min-h-screen  items-center justify-center p-24  max-sm:p-4 w-full   ">
+      <div className="absolute inset-0 h-screen bg-gray-300 ">
         <iframe
           width="100%"
           height="100%"
           title="map"
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28970.65905073287!2d67.01966255!3d24.8183044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb33dbbdc1875bf%3A0x6a6572ab3a66fed8!2sClifton%2C%20Karachi%2C%20Karachi%20City%2C%20Sindh!5e0!3m2!1sen!2s!4v1719307874255!5m2!1sen!2s"
-          className="grayscale contrast-[1.2] opacity-[0.2]"
+          className="grayscale contrast-[1.2] opacity-[0.2] h-screen"
         ></iframe>
       </div>
       <div className="flex gap-10 max-lg:flex-col">
