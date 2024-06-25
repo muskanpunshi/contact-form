@@ -1,6 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This README provides a detailed overview of the Contact Form application hosted [`here`](https://contact-form-lovat-one.vercel.app/).
 
-## Getting Started
+The Contact Form application is a simple web-based interface designed for users to get in touch with an organization. It collects user details and submits the information for further processing.
+
+# Getting Started
 
 First, run the development server:
 
@@ -20,17 +22,26 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+# Features
+User-Friendly Interface: Clean and straightforward form for easy use.
+Responsive Design: Optimized for both desktop and mobile devices.
+24/7 Availability: Accessible at any time.
 
-To learn more about Next.js, take a look at the following resources:
+# Technologies Used
+Next.js: Framework for building the application.
+Tailwind CSS: Utility-first CSS framework for styling.
+Google reCAPTCHA v3: Security measure to prevent spam submissions.
+React Hook Form: For form validation.
+Nodemailer: For sending emails.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# Usage
+Navigate to the Contact Form.
+Fill in the required fields: Name, Email, and Message.
+Complete the reCAPTCHA verification.
+Click the "Submit" button to send the information.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+# Deployment
+The application is deployed using Vercel, ensuring smooth performance and reliable hosting.
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# Contribution
+Contributions are welcome. Please fork the repository and submit a pull request with your changes.
